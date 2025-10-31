@@ -1,1 +1,1 @@
-# Highest-Value-Palindrome-algo
+# Highest-Value-Palindrome-algo It tries to make the largest possible palindrome number by changing at most k digits in a given numeric string. The function highestValuePalindrome (currently empty) will contain the logic to modify digits symmetrically and maximize the value while ensuring the result remains a palindrome—or return "-1" if it’s impossible.
